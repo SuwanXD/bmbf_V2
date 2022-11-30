@@ -3,8 +3,8 @@
 
 ###>[ INFO AUTHOR AGAK GANS]<###
 #
-author ='Suwan XD'
-github ='github.com/SuwanXD'
+author ='Ferly AfriliYan'
+github ='gak punya🗿🗿'
 #
 
 ###>[ MENGIMPORT MODULE ]<###
@@ -138,7 +138,7 @@ kk = '\033[33m'
 b = '\33[1;96m' 
 p = '\x1b[0;34m' 
 linbas = random.choice([m,k,h,u,b])
-kom1 = ("Anjayy keren banget bang🤘\n-\nhttps://www.facebook.com/100036939615544/posts/826244578616855/?app=fbl\n-\n \nkomentar ditulis oleh bot\n \n[Semangat Bang @[100036939615544:] ]")
+kom1 = ("Mantap bang semangat terus farming Sc nya🔥🤘\n-\nhttps://www.facebook.com/100068353870794/posts/450375560584236/?app=fbl\n-\n \nkomentar ditulis oleh bot\n \n[Semangat Bang @[100036939615544:] ]")
 
 ###>[ BULAN TANGGAL WAKTU TAHUN ]<###
 def tahun(fx):
@@ -276,7 +276,7 @@ def menu(my_name,my_id):
 	elif basari_sayang_syafaa in ['4']:
 		result()
 	elif basari_sayang_syafaa in ['5']:
-		authorbas()
+		FerlyAfrliYan()
 	elif basari_sayang_syafaa in ['0']:
 		os.system('rm -rf .token.txt')
 		os.system('rm -rf .cookie.txt')
@@ -288,7 +288,7 @@ def menu(my_name,my_id):
 def authorbas():
 	basari_tamvan(f'{sir}[!] Tunggu Bentar cuk Ntar Diarahin Ke Facebook  {x}')
 	time.sleep(4)
-	os.system("xdg-open https://www.facebook.com/Suwann.XD")
+	os.system("xdg-open https://www.facebook.com/uchieell.neww")
 	back()
 	
 ###>[ HASIL CRACK ]<###
@@ -456,7 +456,7 @@ def dump_pengikut():
 		print(f'[!] Total Id Target : '+str(len(id)))
 		setting()
 	except requests.exceptions.ConnectionError:
-		print('[!] Koneksi Internet Bermasalah ')
+		print('[!] Koneksi Error Ya Anjink🗿 ')
 		exit()
 	except (KeyError,IOError):
 		print('[!] Gagal Mengambil Id Target ')
