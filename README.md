@@ -17,4 +17,4 @@ $ ls
 
 $ python bmbf_V2.py
 
-#FOLLOW & KASIH STAR😂
+# FOLLOW & KASIH STAR😂
